@@ -1,10 +1,20 @@
-import adapter from '@sveltejs/adapter-auto';
+import preprocess from 'svelte-preprocess';
+import adapter from '@sveltejs/adapter-node';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	kit: {
-		adapter: adapter()
-	}
+    preprocess: preprocess(),
+    kit: {
+        // hydrate the <div id="svelte"> element in src/app.html
+        //target: '#svelte',
+        adapter: adapter({
+            out: 'build',
+            envPrefix: 'PIADA_IO_'
+            //pages: 'build',
+            //assets: 'build',
+            //fallback: null
+        })
+    }
 };
 
 export default config;

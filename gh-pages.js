@@ -7,7 +7,7 @@ publish(
         repo: 'https://github.com/eastpiada/test.piada.io.git',
         user: {
             name: 'Tony',
-            email: 'eastpiada@gmail.com'
+            email: 'tony.burger@gmail.com'
         },
         dotfiles: true
     },
