@@ -18,11 +18,10 @@
       "vat_id": ""
     },
     "about": {
-      "me": "https://armada-alliance.com/stake-pools/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
+      "me": "https://piada.io/",
       "server": "Apple Silicon M1s, Rock5b, Firefly, 4x Raspberry Pi 4B",
-      "company": "Armada Alliance OGs forging Cardano blockchain rewards on efficient hardware since mainnet epoch 255"
+      "company": "PIADA pool runs energy efficient ARM hardware. Armada Alliance OGs providing documentation for Cardano on ARM."
     },
-    "cexplorer": "987a688a06e0e88cff",
     "rss": ""
   },
   "telegram-admin-handle": {
