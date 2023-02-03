@@ -1,59 +1,59 @@
 <script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
+	import TopPage from '$lib/TopPage.svelte';
+	import About from '$lib/About.svelte';
+	import Performance from '$lib/Performance.svelte';
+	import Timeline from '$lib/Timeline.svelte';
+	import SPOs from '$lib/SPOs.svelte';
 </script>
 
-<svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
-</svelte:head>
+<!-- Header with full-height image -->
+<TopPage />
 
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
+<!-- About Section -->
+<About />
 
-		to your new<br />SvelteKit app
-	</h1>
+<!-- Performance Section -->
+<Performance />
 
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
+<!-- Timeline Section -->
+<Timeline />
 
-	<Counter />
-</section>
+<!-- Images Section
+<div class="w3-container" style="padding:128px 16px" id="work">
+    <h3 class="w3-center">POOL LIFE</h3>
+    <p class="w3-center w3-large">PIADA Pool Hardware</p>
 
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
-	}
+    <div class="w3-row-padding" style="margin-top:64px">
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_mic.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A microphone">
+    </div>
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A phone">
+    </div>
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_drone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A drone">
+    </div>
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Soundbox">
+    </div>
+    </div>
 
-	h1 {
-		width: 100%;
-	}
+    <div class="w3-row-padding w3-section">
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_tablet.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tablet">
+    </div>
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_camera.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A camera">
+    </div>
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_typewriter.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A typewriter">
+    </div>
+    <div class="w3-col l3 m6">
+    <img src="https://w3schools.com/w3images/tech_tableturner.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tableturner">
+    </div>
+    </div>
+</div> 
+-->
 
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
-</style>
+<!-- SPOs Section -->
+<SPOs />

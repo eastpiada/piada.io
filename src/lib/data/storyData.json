@@ -1,0 +1,128 @@
+[
+    {
+        "url": "",
+        "title": "Wael and Tony Meet",
+        "date": "February 2021",
+        "details": "Kicking around ideas on the Arming Cardano Telegram channel",
+        "faIcon": "fa-handshake-simple",
+        "faStyle": "color:rgb(205, 35, 85);",
+        "height": "160px"
+    },
+    {
+        "url": "https://cardano.ideascale.com/c/idea/340480",
+        "title": "Catalyst Fund4: ARMing Cardano",
+        "date": "March 2021",
+        "details": "Creating SPO content for ARM devices",
+        "faIcon": "fa-lightbulb",
+        "faStyle": "color:Navy;",
+        "height": "195px"
+    },
+    {
+        "url": "https://cardanoscan.io/pool/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
+        "title": "PIADA Registered on Mainnet",
+        "date": "March 15th, 2021 04:29 AM UTC",
+        "details": "Four Raspberry Pis and no fear (and maybe some beer)",
+        "faIcon": "fa-bullhorn",
+        "faStyle": "color:rgb(205, 35, 85);",
+        "height": "195px"
+    },
+    {
+        "url": "https://cardanoscan.io/block/5492703",
+        "title": "PIADA 1st Mainnet Block",
+        "date": "March 22nd, 2021 08:24 AM UTC",
+        "details": "Ouroboros rewards a new pool",
+        "faIcon": "fa-cube",
+        "faStyle": "color:Green;",
+        "height": "160px"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Py3Xy3ScVas",
+        "title": "Innerview with KEWW - Ken Adams",
+        "date": "April 2021",
+        "details": "Three people, two new projects and a lotta stoke",
+        "faIcon": "fa-microphone-lines",
+        "faStyle": "color:Goldenrod;",
+        "height": "195px"
+    },
+    {
+        "url": "https://armada-alliance.com/",
+        "title": "Armada Alliance is Born",
+        "date": "April 2021",
+        "details": "A group of ARM enthusiasts start a movement",
+        "faIcon": "fa-skull-crossbones",
+        "faStyle": "",
+        "height": "160px"
+    },
+    {
+        "url": "",
+        "title": "Cardano Foundation Delegation",
+        "date": "July 2021",
+        "details": "Putting the PIADA Raspberry Pis to the test",
+        "faIcon": "fa-rocket",
+        "faStyle": "color:rgb(72, 127, 255);",
+        "height": "160px"
+    },
+    {
+        "url": "https://cardano.ideascale.com/c/idea/366924",
+        "title": "Catalyst Fund6: Cardano-Heartbeat (CEM)",
+        "date": "August 2021",
+        "details": "Protecting the Cardano network from disasters",
+        "faIcon": "fa-lightbulb",
+        "faStyle": "color:Navy;",
+        "height": "195px"
+    },
+    {
+        "url": "https://cardanoscan.io/block/6152721",
+        "title": "PIADA 100th Mainnet Block",
+        "date": "August 24th, 2021 6:33 AM UTC",
+        "details": "Small hardware, big milestone",
+        "faIcon": "fa-cube",
+        "faStyle": "color:Green;",
+        "height": "160px"
+    },
+    {
+        "url": "https://cardano.ideascale.com/c/idea/397744",
+        "title": "Catalyst Fund8: Cardano Tools & Software for ARM",
+        "date": "March 2022",
+        "details": "Armada Alliance OGs leveling up",
+        "faIcon": "fa-lightbulb",
+        "faStyle": "color:Navy;",
+        "height": "195px"
+    },
+    {
+        "url": "https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-july-2022/104412/1",
+        "title": "Cardano Foundation Delegation",
+        "date": "July 2022",
+        "details": "Whale hello again",
+        "faIcon": "fa-rocket",
+        "faStyle": "color:rgb(72, 127, 255);",
+        "height": "160px"
+    },
+    {
+        "url": "",
+        "title": "Wael Meets Charles at cNFTcon",
+        "date": "October 2022",
+        "details": "Just two visionaries rubbing elbows",
+        "faIcon": "fa-thumbs-up",
+        "faStyle": "color:rgb(205, 35, 85);",
+        "height": "195px"
+    },
+    {
+        "url": "https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/1",
+        "title": "Cardano Foundation Delegation",
+        "date": "October 2022",
+        "details": "Testing new hardware and tweaking some automation",
+        "faIcon": "fa-rocket",
+        "faStyle": "color:rgb(72, 127, 255);",
+        "height": "195px"
+    },
+    {
+        "url": "https://fiso.teddyswap.org/",
+        "title": "TeddySwap FISO Selection",
+        "date": "January 2023",
+        "details": "Earn $TEDY tokens by delegating to PIADA",
+        "faIcon": "fa-coins",
+        "faStyle": "color:#8d6948;",
+        "height": "160px"
+    }
+]

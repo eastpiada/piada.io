@@ -1,0 +1,38 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://piada.io/images/piada-logo-64.png",
+    "url_png_logo": "https://piada.io/images/piada-logo-full.png",
+    "location": "East Coast USA",
+    "social": {
+      "twitter_handle": "eastpiada",
+      "telegram_handle": "piadapool",
+      "youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg",
+      "github_handle": "AstroWa3l"
+    },
+    "company": {
+      "name": "PIADA",
+      "addr": "",
+      "city": "",
+      "country": "United States",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "https://armada-alliance.com/stake-pools/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
+      "server": "Apple Silicon M1s, Rock5b, Firefly, 4x Raspberry Pi 4B",
+      "company": "Armada Alliance OGs forging Cardano blockchain rewards on efficient hardware since mainnet epoch 255"
+    },
+    "cexplorer": "987a688a06e0e88cff",
+    "rss": ""
+  },
+  "telegram-admin-handle": {
+    "0": "eastpiada",
+    "1": "Qwailman"
+  },
+  "my-pool-ids": [
+    "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+  ],
+  "when-satured-then-recommend": [
+    "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
+  ]
+}
