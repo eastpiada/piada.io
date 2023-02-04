@@ -50,7 +50,7 @@
         "date": "April 2021",
         "details": "A group of ARM enthusiasts start a movement",
         "faIcon": "fa-skull-crossbones",
-        "faStyle": "",
+        "faStyle": "color: #000",
         "height": "160px"
     },
     {

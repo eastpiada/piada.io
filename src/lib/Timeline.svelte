@@ -11,8 +11,8 @@
     import storyData from '$lib/data/storyData.json';
 </script>
 
-<div class="w3-container" style="padding:128px 2px" id="timeline">
-    <Timeline position="alternate">
+<div class="w3-container w3-black" style="padding:128px 2px" id="timeline">
+    <Timeline position="alternate" style="margin-top:64px">
         {#each storyData as sd}
         <TimelineItem>
             <TimelineOppositeContent slot="opposite-content">

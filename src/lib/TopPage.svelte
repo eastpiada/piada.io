@@ -1,7 +1,6 @@
 
 <script>
 	import Delegate from "$lib/Delegate.svelte";
-
   let aaShip = "/images/ship-420.png";
 </script>
 
@@ -14,6 +13,7 @@
       </h4>
       <Delegate/>
     </div>
+
     <div class="w3-display-bottomleft w3-xlarge w3-section w3-text-white" style="padding:24px 48px">
       <!--<span class="p-p3">{@html cardanoLogoSvg}</span>-->
       <span class="p-p3">&#960; &#43; &#8371; &#61; &#8766;</span>
