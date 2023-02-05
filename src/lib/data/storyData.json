@@ -6,7 +6,7 @@
         "details": "Kicking around ideas on the Arming Cardano Telegram channel",
         "faIcon": "fa-handshake-simple",
         "faStyle": "color:rgb(205, 35, 85);",
-        "height": "160px"
+        "height": "175px"
     },
     {
         "url": "https://cardano.ideascale.com/c/idea/340480",
@@ -33,7 +33,7 @@
         "details": "Ouroboros rewards a new pool",
         "faIcon": "fa-cube",
         "faStyle": "color:Green;",
-        "height": "160px"
+        "height": "175px"
     },
     {
         "url": "https://www.youtube.com/watch?v=Py3Xy3ScVas",
@@ -51,7 +51,7 @@
         "details": "A group of ARM enthusiasts start a movement",
         "faIcon": "fa-skull-crossbones",
         "faStyle": "color: #000",
-        "height": "160px"
+        "height": "175px"
     },
     {
         "url": "",
@@ -60,7 +60,7 @@
         "details": "Putting the PIADA Raspberry Pis to the test",
         "faIcon": "fa-rocket",
         "faStyle": "color:rgb(72, 127, 255);",
-        "height": "160px"
+        "height": "175px"
     },
     {
         "url": "https://cardano.ideascale.com/c/idea/366924",
@@ -78,7 +78,7 @@
         "details": "Small hardware, big milestone",
         "faIcon": "fa-cube",
         "faStyle": "color:Green;",
-        "height": "160px"
+        "height": "175px"
     },
     {
         "url": "https://cardano.ideascale.com/c/idea/397744",
@@ -96,7 +96,7 @@
         "details": "Whale hello again",
         "faIcon": "fa-rocket",
         "faStyle": "color:rgb(72, 127, 255);",
-        "height": "160px"
+        "height": "175px"
     },
     {
         "url": "",
@@ -123,6 +123,6 @@
         "details": "Earn $TEDY tokens by delegating to PIADA",
         "faIcon": "fa-coins",
         "faStyle": "color:#8d6948;",
-        "height": "160px"
+        "height": "175px"
     }
 ]
