@@ -49,7 +49,7 @@
             <p class="teddy">Earn $TEDY tokens by delegating to PIADA during the TeddySwap FISO starting at epoch 392</p>
         </div>
     </div>
-
+    <!--
     <div class="w3-row w3-center w3-black w3-round-xlarge" style="padding:84px 0px;margin-bottom:16px;">
         <div class="w3-row-padding w3-center" style="margin-top:84px!important">
             {#await getPoolUptime}
@@ -95,6 +95,7 @@
             {/await}
         </div>
     </div>
+    -->
 </div>
 
 <style>
