@@ -2,12 +2,14 @@
 <script>
     import perfData from '$lib/data/poolData.json';
     
+    /*
 	let getPoolUptime = (async () => {
 		const res = await fetch(
 			'https://api.uptimerobot.com/v2/getMonitors?format=json&api_key=ur1967275-b3b281dc8596ed10791ab890', { method: 'POST' }
 		);
 		return await res.json();
 	})();
+    */
 
     let teddy = "https://teddyswap.cardano-blockhouse.de/img/teddy-logo.svg";
 </script>
