@@ -6,6 +6,9 @@
   let aaShip = "/images/ship-420.png";
 
   // Toggle between showing and hiding the sidebar when clicking the menu icon
+  /**
+	 * @type {HTMLElement}
+	 */
   let piadaSidebar;
 
   function w3_open() {

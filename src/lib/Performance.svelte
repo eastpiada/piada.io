@@ -1,7 +1,6 @@
 
 <script>
     import perfData from '$lib/data/poolData.json';
-	import UptimeRobot from '$lib/UptimeRobot.svelte';
     
 	let getPoolUptime = (async () => {
 		const res = await fetch(
