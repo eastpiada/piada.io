@@ -96,12 +96,28 @@
         "faStyle": "color:rgb(205, 35, 85);"
     },
     {
+        "url": "https://github.com/cardano-community/koios-python",
+        "title": "PIADA joins QXT on Koios Python",
+        "date": "October 2022",
+        "details": "Decentralized and Elastic RESTful query layer for exploring data on Cardano blockchain",
+        "faIcon": "fa-laptop-code",
+        "faStyle": "color:#4eba83;"
+    },
+    {
         "url": "https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/1",
         "title": "Cardano Foundation Delegation",
         "date": "October 2022",
         "details": "Testing new hardware and tweaking some automation",
         "faIcon": "fa-rocket",
         "faStyle": "color:rgb(72, 127, 255);"
+    },
+    {
+        "url": "https://github.com/cardano-community/koios-python",
+        "title": "PIADA joins QXT on RAW Cardano Explorer",
+        "date": "October 2022",
+        "details": "Verify blockchain data using Koios Python",
+        "faIcon": "fa-square-check",
+        "faStyle": "color:#2eb82e;"
     },
     {
         "url": "https://fiso.teddyswap.org/",
