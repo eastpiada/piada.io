@@ -12,6 +12,7 @@
     */
 
     let teddy = "https://teddyswap.cardano-blockhouse.de/img/teddy-logo.svg";
+    let tosi = "https://app.tosidrop.io/static/media/tosidrop-dark.a0c16f6bb65f98d229a5.png";
 </script>
 
 <div class="w3-container w3-green" id="performance">
@@ -52,6 +53,12 @@
         <div class="w3-col w3-mobile">
             <a href="https://teddyswap.org" rel="noreferrer" target="_blank"><img src="{teddy}" class="w3-image teddy-logo" alt="" width="600"></a>
             <p class="teddy w3-xlarge">Earn $TEDY tokens by delegating to PIADA during the <a href="https://teddyswap.org" rel="noreferrer" target="_blank">TeddySwap FISO</a> starting at epoch 392</p>
+        </div>
+    </div>
+    <div class="w3-row w3-center w3-black w3-round-xlarge" style="padding:84px 0px;margin-bottom:16px;">
+        <div class="w3-col w3-mobile">
+            <a href="https://app.tosidrop.io/cardano/claim" rel="noreferrer" target="_blank"><img src="{tosi}" class="w3-image teddy-logo" alt="" width="600"></a>
+            <p class="teddy w3-xlarge"><a href="https://app.tosidrop.io/cardano/claim" rel="noreferrer" target="_blank">TosiDrop</a> tokens coming soon!</p>
         </div>
     </div>
 
