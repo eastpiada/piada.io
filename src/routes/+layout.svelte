@@ -59,13 +59,12 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-84">
-    <a href="#home" class="w3-button w3-light-grey w3-padding-large w3-large w3-margin-top"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
     <Delegate/>
     <div class="w3-xlarge w3-section">
       <span class="p-p3">&#960; &#43; &#8371; &#61; &#8766;</span>
       <a href="https://twitter.com/Piada_stakePool" rel="noreferrer" target="_blank"><i class="fa-brands fa-twitter w3-hover-opacity p-p3"></i></a>
       <a href="https://t.me/piadapool" rel="noreferrer" target="_blank"><i class="fa-brands fa-telegram w3-hover-opacity p-p3"></i></a>
-      <a href="https://armada-alliance.com/" rel="noreferrer" target="_blank"><img class="w3-hover-opacity" src={aaShip} alt="Armada Alliance Logo" style="height:30px;"></a>
+      <a href="https://armada-alliance.com/" rel="noreferrer" target="_blank"><img class="w3-hover-opacity" src={aaShip} alt="Armada Alliance Logo" style="height:30px;position:relative;top:-1px;"></a>
     </div>
     <p>PIADA - ARM'ed Cardano Stake Pool &#169; 2023<br />This website is running in Svelte on a Raspberry Pi <span style="color: #e60000;"><i class="fa-solid fa-heart" style="padding-left:5px;"></i></span></p>
     

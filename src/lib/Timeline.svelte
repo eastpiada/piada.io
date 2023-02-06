@@ -16,7 +16,7 @@
         {#each storyData as sd}
         <TimelineItem>
             <TimelineOppositeContent slot="opposite-content">
-                <p>{sd.date}</p>
+                <h4>{sd.date}</h4>
             </TimelineOppositeContent>
             <TimelineSeparator>
                 <TimelineDot style={'width: 45px; height: 48px; background-color: #fff; display: flex; justify-content: center; border-color: transparent;'}>
@@ -24,13 +24,13 @@
                 </TimelineDot>
                 <TimelineConnector />
             </TimelineSeparator>
-            <TimelineContent style={'line-height:1.6em;height:' + sd.height + ';'}>
+            <TimelineContent style={'line-height:1.6em;margin-bottom:50px;'}>
                 {#if sd.url != ""}
                 <h3><a href={sd.url} rel="noreferrer" target="_blank">{sd.title}</a></h3>
                 {:else}
                 <h3>{sd.title}</h3>
                 {/if}
-                <p>{sd.details}</p>
+                <p class="w3-large">{sd.details}</p>
             </TimelineContent>
         </TimelineItem>
         {/each}

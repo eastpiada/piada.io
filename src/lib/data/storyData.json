@@ -5,8 +5,7 @@
         "date": "February 2021",
         "details": "Kicking around ideas on the Arming Cardano Telegram channel",
         "faIcon": "fa-handshake-simple",
-        "faStyle": "color:rgb(205, 35, 85);",
-        "height": "175px"
+        "faStyle": "color:rgb(205, 35, 85);"
     },
     {
         "url": "https://cardano.ideascale.com/c/idea/340480",
@@ -14,8 +13,7 @@
         "date": "March 2021",
         "details": "Creating SPO content for ARM devices",
         "faIcon": "fa-lightbulb",
-        "faStyle": "color:Navy;",
-        "height": "195px"
+        "faStyle": "color:Navy;"
     },
     {
         "url": "https://cardanoscan.io/pool/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65",
@@ -23,8 +21,7 @@
         "date": "March 15th, 2021 04:29 AM UTC",
         "details": "Four Raspberry Pis and no fear (and maybe some beer)",
         "faIcon": "fa-bullhorn",
-        "faStyle": "color:rgb(205, 35, 85);",
-        "height": "205px"
+        "faStyle": "color:rgb(205, 35, 85);"
     },
     {
         "url": "https://cardanoscan.io/block/5492703",
@@ -32,8 +29,7 @@
         "date": "March 22nd, 2021 08:24 AM UTC",
         "details": "Ouroboros rewards a new pool",
         "faIcon": "fa-cube",
-        "faStyle": "color:Green;",
-        "height": "175px"
+        "faStyle": "color:Green;"
     },
     {
         "url": "https://www.youtube.com/watch?v=Py3Xy3ScVas",
@@ -41,8 +37,7 @@
         "date": "April 2021",
         "details": "Three people, two new projects and a lotta stoke",
         "faIcon": "fa-microphone-lines",
-        "faStyle": "color:Goldenrod;",
-        "height": "205px"
+        "faStyle": "color:Goldenrod;"
     },
     {
         "url": "https://armada-alliance.com/",
@@ -50,8 +45,7 @@
         "date": "April 2021",
         "details": "A group of ARM enthusiasts start a movement",
         "faIcon": "fa-skull-crossbones",
-        "faStyle": "color: #000",
-        "height": "175px"
+        "faStyle": "color: #000"
     },
     {
         "url": "",
@@ -59,8 +53,7 @@
         "date": "July 2021",
         "details": "Putting the PIADA Raspberry Pis to the test",
         "faIcon": "fa-rocket",
-        "faStyle": "color:rgb(72, 127, 255);",
-        "height": "175px"
+        "faStyle": "color:rgb(72, 127, 255);"
     },
     {
         "url": "https://cardano.ideascale.com/c/idea/366924",
@@ -68,8 +61,7 @@
         "date": "August 2021",
         "details": "Protecting the Cardano network from disasters",
         "faIcon": "fa-lightbulb",
-        "faStyle": "color:Navy;",
-        "height": "205px"
+        "faStyle": "color:Navy;"
     },
     {
         "url": "https://cardanoscan.io/block/6152721",
@@ -77,8 +69,7 @@
         "date": "August 24th, 2021 6:33 AM UTC",
         "details": "Small hardware, big milestone",
         "faIcon": "fa-cube",
-        "faStyle": "color:Green;",
-        "height": "175px"
+        "faStyle": "color:Green;"
     },
     {
         "url": "https://cardano.ideascale.com/c/idea/397744",
@@ -86,8 +77,7 @@
         "date": "March 2022",
         "details": "Armada Alliance OGs leveling up",
         "faIcon": "fa-lightbulb",
-        "faStyle": "color:Navy;",
-        "height": "205px"
+        "faStyle": "color:Navy;"
     },
     {
         "url": "https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-july-2022/104412/1",
@@ -95,8 +85,7 @@
         "date": "July 2022",
         "details": "Whale hello again",
         "faIcon": "fa-rocket",
-        "faStyle": "color:rgb(72, 127, 255);",
-        "height": "175px"
+        "faStyle": "color:rgb(72, 127, 255);"
     },
     {
         "url": "",
@@ -104,8 +93,7 @@
         "date": "October 2022",
         "details": "Just two visionaries rubbing elbows",
         "faIcon": "fa-thumbs-up",
-        "faStyle": "color:rgb(205, 35, 85);",
-        "height": "205px"
+        "faStyle": "color:rgb(205, 35, 85);"
     },
     {
         "url": "https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/1",
@@ -113,8 +101,7 @@
         "date": "October 2022",
         "details": "Testing new hardware and tweaking some automation",
         "faIcon": "fa-rocket",
-        "faStyle": "color:rgb(72, 127, 255);",
-        "height": "205px"
+        "faStyle": "color:rgb(72, 127, 255);"
     },
     {
         "url": "https://fiso.teddyswap.org/",
@@ -122,7 +109,6 @@
         "date": "January 2023",
         "details": "Earn $TEDY tokens by delegating to PIADA",
         "faIcon": "fa-coins",
-        "faStyle": "color:#8d6948;",
-        "height": "175px"
+        "faStyle": "color:#8d6948;"
     }
 ]
