@@ -24,7 +24,7 @@
         "details": "Four Raspberry Pis and no fear (and maybe some beer)",
         "faIcon": "fa-bullhorn",
         "faStyle": "color:rgb(205, 35, 85);",
-        "height": "195px"
+        "height": "205px"
     },
     {
         "url": "https://cardanoscan.io/block/5492703",
@@ -42,7 +42,7 @@
         "details": "Three people, two new projects and a lotta stoke",
         "faIcon": "fa-microphone-lines",
         "faStyle": "color:Goldenrod;",
-        "height": "195px"
+        "height": "205px"
     },
     {
         "url": "https://armada-alliance.com/",
@@ -69,7 +69,7 @@
         "details": "Protecting the Cardano network from disasters",
         "faIcon": "fa-lightbulb",
         "faStyle": "color:Navy;",
-        "height": "195px"
+        "height": "205px"
     },
     {
         "url": "https://cardanoscan.io/block/6152721",
@@ -87,7 +87,7 @@
         "details": "Armada Alliance OGs leveling up",
         "faIcon": "fa-lightbulb",
         "faStyle": "color:Navy;",
-        "height": "195px"
+        "height": "205px"
     },
     {
         "url": "https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-july-2022/104412/1",
@@ -105,7 +105,7 @@
         "details": "Just two visionaries rubbing elbows",
         "faIcon": "fa-thumbs-up",
         "faStyle": "color:rgb(205, 35, 85);",
-        "height": "195px"
+        "height": "205px"
     },
     {
         "url": "https://forum.cardano.org/t/announcing-the-stake-pools-chosen-for-october-2022/109142/1",
@@ -114,7 +114,7 @@
         "details": "Testing new hardware and tweaking some automation",
         "faIcon": "fa-rocket",
         "faStyle": "color:rgb(72, 127, 255);",
-        "height": "195px"
+        "height": "205px"
     },
     {
         "url": "https://fiso.teddyswap.org/",
