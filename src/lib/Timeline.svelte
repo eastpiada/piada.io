@@ -24,7 +24,7 @@
                 </TimelineDot>
                 <TimelineConnector />
             </TimelineSeparator>
-            <TimelineContent style={'line-height:1.6em;margin-bottom:50px;'}>
+            <TimelineContent style={'line-height:1.6em;margin-bottom:60px;'}>
                 {#if sd.url != ""}
                 <h3><a href={sd.url} rel="noreferrer" target="_blank">{sd.title}</a></h3>
                 {:else}

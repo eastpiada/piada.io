@@ -66,7 +66,8 @@
       <a href="https://t.me/piadapool" rel="noreferrer" target="_blank"><i class="fa-brands fa-telegram w3-hover-opacity p-p3"></i></a>
       <a href="https://armada-alliance.com/" rel="noreferrer" target="_blank"><img class="w3-hover-opacity" src={aaShip} alt="Armada Alliance Logo" style="height:30px;position:relative;top:-1px;"></a>
     </div>
-    <p>PIADA - ARM'ed Cardano Stake Pool &#169; 2023<br />This website is running in Svelte on a Raspberry Pi <span style="color: #e60000;"><i class="fa-solid fa-heart" style="padding-left:5px;"></i></span></p>
+    <p>PIADA - ARM'ed Cardano Stake Pool &#169; 2023<br />This website is running in Svelte on a Raspberry Pi <span style="color: #e60000;"><i class="fa-solid fa-heart fa-beat" style="padding-left:5px;--fa-animation-duration: 1.5s;"></i></span></p>
+    <p><a href="https://stats.uptimerobot.com/lgx2rF184V" rel="noreferrer" target="_blank">Pool UptimeRobot Stats</a> <i class="fa-solid fa-circle fa-beat w3-text-green" style="padding-left:5px;--fa-animation-duration: 1s;"></i></p>
     
     <p>Pool ID - <a href="https://pooltool.io/pool/b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65/awards" target="_blank" rel="noreferrer">b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65</a><br />
         Bech32 Pool ID - <a href="https://cexplorer.io/pool/pool1hrv8gtrm0dgjg6zyss5uwa4nkruzfnh5vrdkr2sayj7x2nw6mjc" target="_blank" rel="noreferrer">pool1hrv8gtrm0dgjg6zyss5uwa4nkruzfnh5vrdkr2sayj7x2nw6mjc</a></p>
