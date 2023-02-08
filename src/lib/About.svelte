@@ -1,6 +1,6 @@
 
-<div class="w3-container w3-black" style="padding:128px 16px" id="about">
-    <div class="w3-row-padding w3-center" style="margin-top:84px!important">
+<div class="w3-container" style="padding:128px 16px;background-color:#4285af;" id="about">
+    <div class="w3-row-padding w3-center w3-text-white" style="margin-top:84px!important">
         <div class="w3-half w3-padding-32">
             <i class="fa-regular fa-lightbulb w3-margin-bottom w3-jumbo w3-center"></i>
             <p class="w3-xlarge">Efficient</p>
@@ -15,7 +15,7 @@
             </p>
         </div>
     </div>
-    <div class="w3-row-padding w3-center" style="margin-top:84px!important">
+    <div class="w3-row-padding w3-center w3-text-white" style="margin-top:84px!important">
         <div class="w3-half w3-padding-32">
             <i class="fa-solid fa-terminal w3-margin-bottom w3-jumbo"></i>
             <p class="w3-xlarge">Expertise</p>
@@ -28,3 +28,8 @@
         </div>
     </div>
 </div>
+
+<style>
+    p {text-shadow:1px 1px 4px #000;}
+    i {text-shadow:1px 1px 4px #000;}
+</style>

@@ -15,29 +15,29 @@
     let tosi = "https://app.tosidrop.io/static/media/tosidrop-dark.a0c16f6bb65f98d229a5.png";
 </script>
 
-<div class="w3-container w3-green" id="performance">
-    <div class="w3-row w3-center" style="padding:84px 0px">
-        <div class="w3-col m2 w3-padding-32">
+<div class="w3-container" id="performance" style="background-color:#4285af;">
+    <div class="w3-row w3-center w3-text-white" style="padding:84px 0px">
+        <div class="w3-col l2 m12 s12 w3-padding-32 w3-large">
             <span class="w3-xxlarge">{perfData.total_delegated}+</span>&#8371;<br>
             Pool Delegation
         </div>
-        <div class="w3-col m2 w3-padding-32">
+        <div class="w3-col l2 m12 w3-mobile w3-padding-32 w3-large">
             <span class="w3-xxlarge">{perfData.pledge}</span>&#8371;<br>
             Pool Pledge
         </div>
-        <div class="w3-col m2 w3-padding-32">
+        <div class="w3-col l2 m12 w3-mobile w3-padding-32 w3-large">
             <span class="w3-xxlarge">{perfData.block_count}</span><br>
             Lifetime Pool Blocks
         </div>
-        <div class="w3-col m2 w3-padding-32">
+        <div class="w3-col l2 m12 w3-mobile w3-padding-32 w3-large">
             <span class="w3-xxlarge">{perfData.ten_epoch_ros}%</span><br>
             Lifetime Return on Stake
         </div>
-        <div class="w3-col m2 w3-padding-32">
+        <div class="w3-col l2 m12 w3-mobile w3-padding-32 w3-large">
             <span class="w3-xxlarge">{perfData.pool_fee}%</span><br>
             Low Variable Pool Fee
         </div>
-        <div class="w3-col m2 w3-padding-32">
+        <div class="w3-col l2 m12 w3-mobile w3-padding-32 w3-large">
             <span class="w3-xxlarge">{perfData.delegate_rewards}</span>&#8371;<br>
             Lifetime Rewards to Delegates
         </div>
