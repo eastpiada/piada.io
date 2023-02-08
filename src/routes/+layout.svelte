@@ -47,8 +47,8 @@
       <a href="#home" class="w3-bar-item"><img src={logoPic} alt="PIADA Logo" style="height:60px;"></a>
       <!-- Right-sided navbar links -->
       <div class="w3-right w3-hide-small">
-        <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
         <a href="#performance" class="w3-bar-item w3-button">PERFORMANCE</a>
+        <a href="#about" class="w3-bar-item w3-button">ABOUT US</a>
         <a href="#timeline" class="w3-bar-item w3-button">OUR STORY</a>
         <a href="#spos" class="w3-bar-item w3-button">SPOs</a>
         <a href="#" class="w3-bar-item w3-button" on:click={staking_modal}>STAKING</a>
@@ -67,10 +67,11 @@
 <!-- Sidebar on small screens when clicking the menu icon -->
 <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" bind:this={piadaSidebar}>
     <a href="#" on:click={w3_close} class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-    <a href="#about" on:click={w3_close} class="w3-bar-item w3-button">ABOUT</a>
     <a href="#performance" on:click={w3_close} class="w3-bar-item w3-button">PERFORMANCE</a>
+    <a href="#about" on:click={w3_close} class="w3-bar-item w3-button">ABOUT US</a>
     <a href="#timeline" on:click={w3_close} class="w3-bar-item w3-button">OUR STORY</a>
     <a href="#spos" on:click={w3_close} class="w3-bar-item w3-button">SPOs</a>
+    <a href="#" class="w3-bar-item w3-button" on:click={staking_modal}>STAKING</a>
 </nav>
 
 <slot />
