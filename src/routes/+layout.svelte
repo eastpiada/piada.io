@@ -35,6 +35,12 @@
     return false;
   }
 
+  function staking_modal_mobile() {
+    stakingModal.style.display = "block";
+    piadaSidebar.style.display = "none";
+    return false;
+  }
+
   function staking_modal_close() {
     stakingModal.style.display = "none";
     return false;
@@ -59,7 +65,7 @@
         <i class="fa fa-bars"></i>
       </a>
       <div class="w3-modal w3-animate-zoom" on:click={staking_modal_close} bind:this={stakingModal}>
-        <img class="w3-modal-content w3-grayscale-max w3-round" src={staking}>
+        <img class="w3-modal-content w3-grayscale-max w3-round w3-mobile" src={staking}>
       </div>
     </div>
 </div>
@@ -71,7 +77,7 @@
     <a href="#about" on:click={w3_close} class="w3-bar-item w3-button">ABOUT US</a>
     <a href="#timeline" on:click={w3_close} class="w3-bar-item w3-button">OUR STORY</a>
     <a href="#spos" on:click={w3_close} class="w3-bar-item w3-button">SPOs</a>
-    <a href="#" class="w3-bar-item w3-button" on:click={staking_modal}>STAKING</a>
+    <a href="#" class="w3-bar-item w3-button" on:click={staking_modal_mobile}>STAKING</a>
 </nav>
 
 <slot />
